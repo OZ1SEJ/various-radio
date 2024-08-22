@@ -1,0 +1,100 @@
+   155500000; CH 1L                 ; Narrow FM           ;      10000; Maritime
+   155525000; CH 2L                 ; Narrow FM           ;      10000; Maritime
+   155625000; CH 1F                 ; Narrow FM           ;      10000; Maritime
+   155650000; CH 3L                 ; Narrow FM           ;      10000; Maritime
+   155775000; CH 2F                 ; Narrow FM           ;      10000; Maritime
+   155825000; CH 3F                 ; Narrow FM           ;      10000; Maritime
+   156025000; CH 60 (Ship)          ; Narrow FM           ;      10000; Maritime
+   156050000; CH 1 (Ship)           ; Narrow FM           ;      10000; Maritime
+   156075000; CH 61 (Ship)          ; Narrow FM           ;      10000; Maritime
+   156100000; CH 2 (Ship)           ; Narrow FM           ;      10000; Maritime
+   156125000; CH 62 (Ship)          ; Narrow FM           ;      10000; Maritime
+   156150000; CH 3 (Ship)           ; Narrow FM           ;      10000; Maritime
+   156175000; CH 63 (Ship)          ; Narrow FM           ;      10000; Maritime
+   156200000; CH 4 (Ship)           ; Narrow FM           ;      10000; Maritime
+   156225000; CH 64 (Ship)          ; Narrow FM           ;      10000; Maritime
+   156250000; CH 5 (Ship)           ; Narrow FM           ;      10000; Maritime
+   156275000; CH 65 (Ship)          ; Narrow FM           ;      10000; Maritime
+   156300000; CH 6                  ; Narrow FM           ;      10000; Maritime
+   156325000; CH 66 (Ship)          ; Narrow FM           ;      10000; Maritime
+   156350000; CH 7 (Ship)           ; Narrow FM           ;      10000; Maritime
+   156375000; CH 67                 ; Narrow FM           ;      10000; Maritime
+   156400000; CH 8                  ; Narrow FM           ;      10000; Maritime
+   156425000; CH 68                 ; Narrow FM           ;      10000; Maritime
+   156450000; CH 9                  ; Narrow FM           ;      10000; Maritime
+   156475000; CH 69                 ; Narrow FM           ;      10000; Maritime
+   156500000; CH 10                 ; Narrow FM           ;      10000; Maritime
+   156525000; CH 70 (DSC)           ; Narrow FM           ;      10000; Maritime
+   156550000; CH 11                 ; Narrow FM           ;      10000; Maritime
+   156575000; CH 71                 ; Narrow FM           ;      10000; Maritime
+   156600000; CH 12                 ; Narrow FM           ;      10000; Maritime
+   156625000; CH 72                 ; Narrow FM           ;      10000; Maritime
+   156650000; CH 13                 ; Narrow FM           ;      10000; Maritime
+   156675000; CH 73                 ; Narrow FM           ;      10000; Maritime
+   156700000; CH 14                 ; Narrow FM           ;      10000; Maritime
+   156725000; CH 74                 ; Narrow FM           ;      10000; Maritime
+   156750000; CH 15                 ; Narrow FM           ;      10000; Maritime
+   156775000; CH 75                 ; Narrow FM           ;      10000; Maritime
+   156800000; CH 16                 ; Narrow FM           ;      10000; Maritime
+   156825000; CH 76                 ; Narrow FM           ;      10000; Maritime
+   156850000; CH 17                 ; Narrow FM           ;      10000; Maritime
+   156875000; CH 77                 ; Narrow FM           ;      10000; Maritime
+   156900000; CH 18 (Ship)          ; Narrow FM           ;      10000; Maritime
+   156925000; CH 78 (Ship)          ; Narrow FM           ;      10000; Maritime
+   156950000; CH 19 (Ship)          ; Narrow FM           ;      10000; Maritime
+   156975000; CH 79 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157000000; CH 20 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157025000; CH 80 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157050000; CH 21 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157075000; CH 81 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157100000; CH 22 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157125000; CH 82 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157150000; CH 23 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157175000; CH 83 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157200000; CH 24 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157225000; CH 84 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157250000; CH 25 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157275000; CH 85 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157300000; CH 26 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157325000; CH 86 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157350000; CH 27 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157375000; CH 87                 ; Narrow FM           ;      10000; Maritime
+   157400000; CH 28 (Ship)          ; Narrow FM           ;      10000; Maritime
+   157425000; CH 88                 ; Narrow FM           ;      10000; Maritime
+   157525000; CH 90 (Ship)          ; Narrow FM           ;      10000; Maritime
+   160625000; CH 60 (Coast)         ; Narrow FM           ;      10000; Maritime
+   160650000; CH 1 (Coast)          ; Narrow FM           ;      10000; Maritime
+   160675000; CH 61 (Coast)         ; Narrow FM           ;      10000; Maritime
+   160700000; CH 2 (Coast)          ; Narrow FM           ;      10000; Maritime
+   160725000; CH 62 (Coast)         ; Narrow FM           ;      10000; Maritime
+   160750000; CH 3 (Coast)          ; Narrow FM           ;      10000; Maritime
+   160775000; CH 63 (Coast)         ; Narrow FM           ;      10000; Maritime
+   160800000; CH 4 (Coast)          ; Narrow FM           ;      10000; Maritime
+   160825000; CH 64 (Coast)         ; Narrow FM           ;      10000; Maritime
+   160850000; CH 5 (Coast)          ; Narrow FM           ;      10000; Maritime
+   160875000; CH 65 (Coast)         ; Narrow FM           ;      10000; Maritime
+   160925000; CH 66 (Coast)         ; Narrow FM           ;      10000; Maritime
+   160950000; CH 7 (Coast)          ; Narrow FM           ;      10000; Maritime
+   161500000; CH 18 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161525000; CH 78 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161550000; CH 19 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161575000; CH 79 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161600000; CH 20 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161625000; CH 80 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161650000; CH 21 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161675000; CH 81 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161700000; CH 22 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161725000; CH 82 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161750000; CH 23 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161775000; CH 83 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161800000; CH 24 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161825000; CH 84 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161850000; CH 25 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161875000; CH 85 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161900000; CH 26 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161925000; CH 86 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161950000; CH 27 (Coast)         ; Narrow FM           ;      10000; Maritime
+   161975000; AIS 1                 ; Narrow FM           ;      10000; Maritime
+   162000000; CH 28 (Coast)         ; Narrow FM           ;      10000; Maritime
+   162025000; AIS 2                 ; Narrow FM           ;      10000; Maritime
+   162125000; CH 90 (Coast)         ; Narrow FM           ;      10000; Maritime
